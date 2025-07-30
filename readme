@@ -1,0 +1,5 @@
+este sistema de python al ejecutarse pide 3 campos y genera un excel los datos registrados 
+se iran guardando 1 por 1 columna por columna en el mismo excel
+
+#liberrias a instalar
+ pip install openpyxl
